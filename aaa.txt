@@ -1,2 +1,4 @@
 在step1上第一次修改
 新建aaa文件   修改aaa文件，直接合到master
+
+修改本仓库git用户名
